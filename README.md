@@ -30,4 +30,7 @@ This research investigates the use of ChatGPT from a user’s perspective. The a
 - RH2. “Users who perceive ChatGPT as enhancing their knowledge are more likely to incorporate ChatGPT into their routine for knowledge acquisition compared to those who do not perceive ChatGPT as enhancing their knowledge.”
 
 # What Grade did I get?
-Distinction! I am really pleased with my result, considering I was working full time as a Data Scientist contractor, suffering a cancer scare and a relationship breakdown all whilst doing this degree. With all that in mind it made me realise, that I am capable, resillient and can do some wonderful things, even with negative pressures. 
+Distinction! I am really pleased with my result, considering I was working full time as a Data Scientist contractor, suffering a cancer scare and a relationship breakdown all whilst doing this degree. With all that in mind it made me realise, that I am capable, resillient and can do some wonderful things, even with negative pressures.
+
+# Did you attend your graduation?
+[I sure did!](https://www.linkedin.com/feed/update/urn:li:activity:7210198744410001408/)
